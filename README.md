@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Sengar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">I'm a passionate Full Stack Developer and a sophomore at BIT Mesra, driven by a curiosity to build impactful digital solutions. I love turning ideas into reality through code and continuously strive to learn and grow in the world of development. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank-sengar" alt="mayank-sengar" /></a> </p>
 
